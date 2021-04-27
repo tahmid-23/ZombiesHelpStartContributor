@@ -1,0 +1,16 @@
+{
+  "name": "Zombies Help Start Contributor",
+  "version": "0.0.1",
+  "description": "Mineflayer runner",
+  "main": "main.js",
+  "author": "syeyoung",
+  "contributors": [
+	"thamid"
+  ],
+  "license": "",
+  "dependencies": {
+    "function-rate-limit": "^1.1.0",
+    "mineflayer": "^2.28.1",
+    "ws": "^7.3.1"
+  }
+}
